@@ -8,8 +8,10 @@ rm v1.zip
 
 cp -a ionic-template-1/. ./
 
-rm -rf ionic-template-1.0.8
+rm -rf ionic-template-1
 
-rm install.sh
+rm -rf docs
+
+cd template
 
 npm i
