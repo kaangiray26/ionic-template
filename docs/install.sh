@@ -15,3 +15,5 @@ rm -rf docs
 cd template
 
 npm i
+
+ionic serve
